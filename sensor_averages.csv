@@ -1,0 +1,4 @@
+Timestamp,SensorType,AverageValue,RecordCount
+"2025-05-08 20:17:10","Humidity",66.66,10
+"2025-05-08 20:17:12","Temperature",29.08,10
+"2025-05-08 20:17:20","Motion",0.40,10
